@@ -1,3 +1,3 @@
 function Objects() {
-  const recipes = {}
+  var recipes = new Object()
 }
